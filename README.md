@@ -1,0 +1,1 @@
+Remade responsive promotional email from Courier using HTML Tables
